@@ -25,6 +25,8 @@ acks 设置消息可靠性
 保证数据不丢失。
 Producer send后回调，以及消息重发机制。
 Consumer 手动提交offset
+acks=all
+
 
 kafka中的控制器
 
